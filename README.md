@@ -13,8 +13,8 @@ Este repositório contém o relatório de estágio não obrigatório realizado n
 relatorio-estagio-setur-al/
 ├── relátorio.tex              # Código-fonte em LaTeX
 ├── arquivo.pdf                # Versão final compilada em PDF
-├── .gitignore                 # Ignora arquivos temporários LaTeX
-└── README.md                  # Esta documentação
+├──.gitignore                  # não dá valor aos arquivos temporários LaTeX
+└── README.md                  
 ```
 ## 📘 Visualização
 
