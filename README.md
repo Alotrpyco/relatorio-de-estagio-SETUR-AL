@@ -8,14 +8,15 @@ Este repositório contém o relatório final de estágio obrigatório realizado 
 
 ```
 relatorio-estagio-setur-al/
-├── relatorio.tex              # Código-fonte em LaTeX
-├── pdf/                       # Versão final compilada em PDF
+├── relátorio.tex              # Código-fonte em LaTeX
+├── arquivo.pdf                # Versão final compilada em PDF
 ├── .gitignore                 # Ignora arquivos temporários LaTeX
 └── README.md                  # Esta documentação
 ```
 ## 📘 Visualização
 
-📄 [Clique aqui para acessar o relatório (PDF)](arquivo.pdf)
+📄 [Clique aqui para acessar o relatório (PDF)](Estrutura%20do%20Projeto/arquivo.pdf)
+
 
 
 ---
