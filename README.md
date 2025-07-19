@@ -15,7 +15,7 @@ relatorio-estagio-setur-al/
 ```
 ## 📘 Visualização
 
-📄 [Clique aqui para acessar o relatório (PDF)](Relatório.pdf)
+📄 [Clique aqui para acessar o relatório (PDF)](pdf/Relatório.pdf)
 
 ---
 ## 🙋‍♂️ Autor
