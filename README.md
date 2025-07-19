@@ -30,4 +30,4 @@ relatorio-estagio-setur-al/
 **Sérgio Ricardo Vieira Torres Silva**  
 📧 [sergio.torres@feac.ufal.br](mailto:sergio.torres@feac.ufal.br)  
 🔗 [LinkedIn](https://linkedin.com/in/sergioricardo-me)  
-🐙 [GitHub](https://github.com/Alotrpyco)
+
