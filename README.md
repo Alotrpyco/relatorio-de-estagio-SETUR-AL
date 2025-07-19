@@ -3,7 +3,7 @@
 
 # 📘 Relatório de Estágio — SETUR/AL (2025)
 
-Este repositório contém o relatório de estágio não obrigatório realizado na **Secretaria de Estado do Turismo de Alagoas (SETUR/AL)**, como parte do curso de **Ciências Econômicas** da **Universidade Federal de Alagoas (UFAL)**. O documento foi elaborado em **LaTeX** e apresenta as atividades desenvolvidas, aprendizados e resultados obtidos durante o período de estágio.
+Este repositório contém o relatório de estágio não obrigatório realizado na **Secretaria de Estado do Turismo de Alagoas (SETUR/AL)**, no qual fui selecionado por meio do Programa Pontapé. O documento foi elaborado em **LaTeX** e apresenta as atividades desenvolvidas, aprendizados e resultados obtidos durante o período de estágio.
 
 ---
 
