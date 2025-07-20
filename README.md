@@ -26,7 +26,7 @@ Gostaria de expressar minha sincera gratidão ao líder e, consequentemente, Sup
 
 
 ---
-## 🙋‍♂️ :relieved: Autor
+## 🙋‍♂️ Autor
 
 **Sérgio Ricardo Vieira Torres Silva**  
 📧 [sergio.torres@feac.ufal.br](mailto:sergio.torres@feac.ufal.br)  
