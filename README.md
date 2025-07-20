@@ -12,7 +12,7 @@ Gostaria de expressar minha sincera gratidão ao líder e, consequentemente, Sup
 ## 📂 Estrutura do Projeto
 
 ```
-├── Estrutura do Projeto/       # Contém os arquivos LaTeX e PDF
+├── Estrutura do Projeto        # Pasta que contém os arquivos LaTeX e PDF
 │   ├── arquivo.pdf             # Versão compilada em PDF
 │   └── arquivo.tex             # Scripts em LaTeX
 ├── .gitignore                  # Arquivos ignorados pelo Git
