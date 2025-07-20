@@ -21,9 +21,6 @@ relatorio-estagio-setur-al/
                  
 ```
 
-# Versão final compilada em PDF
-
-# não dá valor aos arquivos temporários LaTeX
 ## 📘 Visualização
 
 📄 [Clique aqui para acessar o relatório (PDF)](Estrutura%20do%20Projeto/arquivo.pdf)
