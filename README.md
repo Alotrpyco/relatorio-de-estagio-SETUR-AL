@@ -1,4 +1,4 @@
-## Repositório em construção
+## Repositório e relatório em construção
 
 
 # 📘 Relatório de Estágio — SETUR/AL (2025)
