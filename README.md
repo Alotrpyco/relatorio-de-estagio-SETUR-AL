@@ -13,11 +13,12 @@ Gostaria de expressar minha sincera gratidão ao líder e, consequentemente, Sup
 
 ```
 relatorio-estagio-setur-al/
-├── Estrutura do Projeto   # Pasta onde está contido "arquivo.tex" e o "arquivo.pdf"
-  *arquivo.pdf*            # Versão compilada em PDF
-  *arquivo.tex*            # Scripts em LaTeX
-├──.gitignore                 
-└── README.md                  
+├── Estrutura do Projeto/       # Contém os arquivos LaTeX e PDF
+│   ├── arquivo.pdf             # Versão compilada em PDF
+│   └── arquivo.tex             # Scripts em LaTeX
+├── .gitignore                  # Arquivos ignorados pelo Git
+└── README.md                   
+                 
 ```
 
 # Versão final compilada em PDF
