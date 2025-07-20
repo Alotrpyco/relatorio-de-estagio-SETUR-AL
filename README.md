@@ -12,12 +12,13 @@ Gostaria de expressar minha sincera gratidão ao líder e, consequentemente, Sup
 ## 📂 Estrutura do Projeto
 
 ```
-relatorio-estagio-setur-al/
-├── relátorio.tex              # Código-fonte em LaTeX
-├── arquivo.pdf                # Versão final compilada em PDF
-├──.gitignore                  # não dá valor aos arquivos temporários LaTeX
-└── README.md                  
+├── Estrutura do Projeto        # Pasta que contém os arquivos LaTeX e PDF
+│   ├── arquivo.pdf             # Versão compilada em PDF
+│   └── arquivo.tex             # Scripts em LaTeX
+├── .gitignore                  # Arquivos ignorados pelo Git
+└── README.md  
 ```
+
 ## 📘 Visualização
 
 📄 [Clique aqui para acessar o relatório (PDF)](Estrutura%20do%20Projeto/arquivo.pdf)
@@ -30,4 +31,4 @@ relatorio-estagio-setur-al/
 **Sérgio Ricardo Vieira Torres Silva**  
 📧 [sergio.torres@feac.ufal.br](mailto:sergio.torres@feac.ufal.br)  
 🔗 [LinkedIn](https://linkedin.com/in/sergioricardo-me)  
-🐙 [GitHub](https://github.com/Alotrpyco)
+
