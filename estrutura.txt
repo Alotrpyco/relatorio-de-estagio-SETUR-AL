@@ -1,0 +1,16 @@
+Listagem de caminhos de pasta
+O número de série do volume é 82C8-8A65
+C:.
+¦   .gitignore
+¦   estrutura.txt
+¦   LICENSE
+¦   README.md
+¦   
++---Estrutura do Projeto
+        arquivo.pdf
+        arquivo.tex
+        estrutura.txt
+        Relátorio.aux
+        Relátorio.log
+        Relátorio.synctex.gz
+        
