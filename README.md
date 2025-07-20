@@ -13,11 +13,16 @@ Gostaria de expressar minha sincera gratidão ao líder e, consequentemente, Sup
 
 ```
 relatorio-estagio-setur-al/
-├── relátorio.tex              # Código-fonte em LaTeX
-├── arquivo.pdf                # Versão final compilada em PDF
-├──.gitignore                  # não dá valor aos arquivos temporários LaTeX
+├── Estrutura do Projeto   #Pasta onde está contido "arquivo.tex" e o "arquivo.pdf"
+  - `arquivo.pdf`          # Versão compilada em PDF
+  - `arquivo.tex`          # Scripts em LaTeX
+├──.gitignore                 
 └── README.md                  
 ```
+
+# Versão final compilada em PDF
+
+# não dá valor aos arquivos temporários LaTeX
 ## 📘 Visualização
 
 📄 [Clique aqui para acessar o relatório (PDF)](Estrutura%20do%20Projeto/arquivo.pdf)
