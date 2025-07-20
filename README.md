@@ -11,13 +11,20 @@ Gostaria de expressar minha sincera gratidão ao líder e, consequentemente, Sup
 
 ## 📂 Estrutura do Projeto
 
-```
-relatorio-estagio-setur-al/
-├── Estrutura do Projeto/       # Contém os arquivos LaTeX e PDF
-│   ├── arquivo.pdf             # Versão compilada em PDF
-│   └── arquivo.tex             # Scripts em LaTeX
-├── .gitignore                  # Arquivos ignorados pelo Git
-└── README.md    
+``` txt
+(
+¦   .gitignore
+¦   estrutura.txt
+¦   LICENSE
+¦   README.md
+¦   
++---Estrutura do Projeto
+        arquivo.pdf
+        arquivo.tex
+        estrutura.txt
+        Relátorio.aux
+        Relátorio.log
+        Relátorio.synctex.gz)
 ```
 
 ## 📘 Visualização
