@@ -12,7 +12,7 @@ Gostaria de expressar meus sinceros agradecimentos à Gerente Financeira **Sarah
 ## 📂 Estrutura do Projeto
 
 ```
-relatorio-de-estagio-SETUR-AL
+relatorio-de-estagio-SETUR-AL/
 ├── aquivos                     # Pasta que contém os arquivos LaTeX e PDF
 │   ├── arquivo.pdf             # Versão compilada em PDF
 │   └── arquivo.tex             # Scripts em LaTeX
