@@ -22,8 +22,7 @@ relatorio-de-estagio-SETUR-AL/
 
 ## 📘 Visualização
 
-📄 [Clique aqui para acessar o relatório (PDF)](Estrutura%20do%20Projeto/arquivo.pdf)
-
+📄 [Clique aqui para acessar o relatório (PDF)](Arquivos/arquivo.pdf)
 
 
 ---
