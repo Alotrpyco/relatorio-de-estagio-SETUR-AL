@@ -15,7 +15,7 @@ Gostaria de expressar meus sinceros agradecimentos à Gerente Financeira **Sarah
 relatorio-de-estagio-SETUR-AL/
 ├── aquivos                     # Pasta que contém os arquivos LaTeX e PDF
 │   ├── arquivo.pdf             # Versão compilada em PDF
-│   └── arquivo.tex             # Scripts em LaTeX
+│   └── arquivo.tex             # Scripts em formado tex
 ├── .gitignore                  # Arquivos ignorados pelo Git
 └── README.md  
 ```
