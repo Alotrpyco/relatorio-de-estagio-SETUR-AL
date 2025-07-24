@@ -19,7 +19,7 @@ relatorio-de-estagio-SETUR-AL/
 |   ├── portaria interministerial.pdf   # discorre sobre a estrutura e a classificação das receitas e despesas.
 |   ├── decreto.pdf                     # sobre excução orçamentária, financeira, patrimonial e contábil do estado de Alagoas.
 |   ├── manual de elaboração PPA.pdf    # manual de elaboração PPA 2024 - 2027.
-|   └── manual de monitoramento PPA.pdf     # manual de monitoramento do PPA.
+|   └── manual de monitoramento PPA.pdf # manual de monitoramento do PPA.
 ├── .gitignore                          # Arquivos ignorados pelo Git.
 └── README.md  
 ```
