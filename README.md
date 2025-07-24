@@ -20,7 +20,7 @@ relatorio-de-estagio-SETUR-AL/
 |   ├── decreto.pdf                       # Sobre excução orçamentária, financeira, patrimonial e contábil do estado de Alagoas.
 |   ├── manual de elaboração PPA.pdf      # Manual de elaboração PPA 2024 - 2027.
 |   ├── manual de monitoramento PPA.pdf   # Manual de monitoramento do PPA.
-|   └── orientações técnicas.pdf             # Orientações sobre o monitoramento e avaliação PPA 2024-2027.
+|   └── orientações técnicas.pdf           # Orientações sobre o monitoramento e avaliação PPA 2024-2027.
 ├──.gitignore                             # Arquivos ignorados pelo Git.
 └── README.md 
 ```
