@@ -14,7 +14,7 @@ Gostaria de expressar meus sinceros agradecimentos à Gerente Financeira **Sarah
 relatorio-de-estagio-SETUR-AL/
 ├── Arquivos                            # Pasta que contém os arquivos tex e PDF.
 │   ├── arquivo.pdf                     # Versão compilada em PDF.
-│   └── arquivo.tex                     # Scripts em formado tex.
+│   └── arquivo.tex                     # Scripts em tex.
 ├── Bibliografia utilizada/
 |   ├── portaria interministerial.pdf   # discorre sobre a estrutura e a classificação das receitas e despesas.
 |   ├── decreto.pdf                     # sobre excução orçamentária, financeira, patrimonial e contábil do estado de Alagoas.
