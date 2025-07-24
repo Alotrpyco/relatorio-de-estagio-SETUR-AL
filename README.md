@@ -10,13 +10,16 @@ Gostaria de expressar meus sinceros agradecimentos à Gerente Financeira **Sarah
 ---
 
 ## 📂 Estrutura do Projeto
-
 ```
 relatorio-de-estagio-SETUR-AL/
-├── Arquivos                     # Pasta que contém os arquivos tex e PDF
-│   ├── arquivo.pdf             # Versão compilada em PDF
-│   └── arquivo.tex             # Scripts em formado tex
-├── .gitignore                  # Arquivos ignorados pelo Git
+├── Arquivos                            # Pasta que contém os arquivos tex e PDF
+│   ├── arquivo.pdf                     # Versão compilada em PDF
+│   └── arquivo.tex                     # Scripts em formado tex
+├── Bibliografia utilizada/
+    ├── portaria interministerial.pdf   # discorre sobre a natureza e as despesas
+    ├──  decreto.pdf                    # sobre excução orçamentária, financeira, patrimonial e contábil do estado de Alagoas
+    └── manual de elaboração PPA.pdf    # manual de elaboração PPA
+├── .gitignore                          # Arquivos ignorados pelo Git
 └── README.md  
 ```
 
