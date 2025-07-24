@@ -15,7 +15,7 @@ relatorio-de-estagio-SETUR-AL/
 ├── Arquivos                              # Pasta que contém os arquivos tex e PDF.
 │   ├── arquivo.pdf                       # Versão compilada em PDF.
 │   └── arquivo.tex                       # Scripts em tex.
-├── Bibliografia utilizada/               # Pasta onde está contido toda a bibliografia utilizada no estágio.
+├── Bibliografia utilizada/               # Pasta onde está contida toda a bibliografia utilizada no estágio.
 |   ├── portaria interministerial.pdf     # Discorre sobre a estrutura e a classificação das receitas e despesas.
 |   ├── decreto.pdf                       # Sobre excução orçamentária, financeira, patrimonial e contábil do estado de Alagoas.
 |   ├── manual de elaboração PPA.pdf      # Manual de elaboração PPA 2024 - 2027.
