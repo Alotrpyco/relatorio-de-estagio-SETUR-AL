@@ -16,9 +16,9 @@ relatorio-de-estagio-SETUR-AL/
 │   ├── arquivo.pdf                     # Versão compilada em PDF
 │   └── arquivo.tex                     # Scripts em formado tex
 ├── Bibliografia utilizada/
-    ├── portaria interministerial.pdf   # discorre sobre a natureza e as despesas
-    ├── decreto.pdf                     # sobre excução orçamentária, financeira, patrimonial e contábil do estado de Alagoas
-    └── manual de elaboração PPA.pdf    # manual de elaboração PPA
+|   ├── portaria interministerial.pdf   # discorre sobre a natureza e as despesas
+|   ├── decreto.pdf                     # sobre excução orçamentária, financeira, patrimonial e contábil do estado de Alagoas
+|    └── manual de elaboração PPA.pdf    # manual de elaboração PPA
 ├── .gitignore                          # Arquivos ignorados pelo Git
 └── README.md  
 ```
