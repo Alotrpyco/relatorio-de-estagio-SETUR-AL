@@ -15,12 +15,12 @@ relatorio-de-estagio-SETUR-AL/
 ├── Arquivos                              # Pasta que contém os arquivos tex e PDF.
 │   ├── arquivo.pdf                       # Versão compilada em PDF.
 │   └── arquivo.tex                       # Scripts em tex.
-├── Bibliografia utilizada/
-|   ├── portaria interministerial.pdf     # discorre sobre a estrutura e a classificação das receitas e despesas.
-|   ├── decreto.pdf                       # sobre excução orçamentária, financeira, patrimonial e contábil do estado de Alagoas.
-|   ├── manual de elaboração PPA.pdf      # manual de elaboração PPA 2024 - 2027.
-|   ├── manual de monitoramento PPA.pdf   # manual de monitoramento do PPA.
-|   └── orientações técnicas              # orientações sobre o monitoramento e avaliação PPA 2024-2027.
+├── Bibliografia utilizada/               # Pasta onde está contido toda a bibliografia utilizada no estágio.
+|   ├── portaria interministerial.pdf     # Discorre sobre a estrutura e a classificação das receitas e despesas.
+|   ├── decreto.pdf                       # Sobre excução orçamentária, financeira, patrimonial e contábil do estado de Alagoas.
+|   ├── manual de elaboração PPA.pdf      # Manual de elaboração PPA 2024 - 2027.
+|   ├── manual de monitoramento PPA.pdf   # Manual de monitoramento do PPA.
+|   └── orientações técnicas              # Orientações sobre o monitoramento e avaliação PPA 2024-2027.
 ├──.gitignore                             # Arquivos ignorados pelo Git.
 └── README.md 
 ```
