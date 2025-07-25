@@ -16,8 +16,10 @@ relatorio-de-estagio-SETUR-AL/
 │   ├── arquivo.pdf                       # Versão compilada em PDF.
 │   └── arquivo.tex                       # Scripts em tex.
 ├── Bibliografia utilizada/               # Pasta onde está contida toda a bibliografia utilizada no estágio.
+|   ├── decreto nº 98.054                 # Institui o monitoramento e avaliação do PPA
 |   ├── portaria interministerial.pdf     # Discorre sobre a estrutura e a classificação das receitas e despesas.
 |   ├── decreto.pdf                       # Sobre excução orçamentária, financeira, patrimonial e contábil do estado de Alagoas.
+|   ├── lei 9.068_PPA                     # Dispõe sobre o plano plurianual para o período de 2024-2027
 |   ├── manual de elaboração PPA.pdf      # Manual de elaboração PPA 2024 - 2027.
 |   ├── manual de monitoramento PPA.pdf   # Manual de monitoramento do PPA.
 |   └── orientações técnicas.pdf          # Orientações sobre o monitoramento e avaliação PPA 2024-2027.
