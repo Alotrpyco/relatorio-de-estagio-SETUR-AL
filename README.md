@@ -37,5 +37,6 @@ relatorio-de-estagio-SETUR-AL/
 
 **Sérgio Ricardo Vieira Torres Silva**  
 📧 [sergio.torres@feac.ufal.br](mailto:sergio.torres@feac.ufal.br)  
-🔗 [LinkedIn](https://linkedin.com/in/sergioricardo-me)  
+🔗 [LinkedIn](https://linkedin.com/in/sergioricardo-me) 
+:page_with_curl:[Currículo Lattes](http://lattes.cnpq.br/6028108290396877)
 
