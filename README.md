@@ -1,7 +1,7 @@
 ## Repositório e relatório em construção
 
 
-# 📘 Relatório de Estágio — SETUR/AL (2025)
+# :notebook: Relatório de Estágio — SETUR/AL (2025)
 
 Este repositório contém o relatório final de estágio não obrigatório realizado na **Secretaria de Estado do Turismo de Alagoas (SETUR/AL)**, no qual fui selecionado por meio do Programa Pontapé. O documento foi elaborado em **LaTeX** e apresenta as atividades desenvolvidas, aprendizados e resultados obtidos durante o período de estágio.
 
@@ -33,9 +33,12 @@ relatorio-de-estagio-SETUR-AL/
 
 
 ---
-## 🙋‍♂️ Autor
+## :statue_of_liberty: Autor
 
 **Sérgio Ricardo Vieira Torres Silva**  
-📧 [sergio.torres@feac.ufal.br](mailto:sergio.torres@feac.ufal.br)  
-🔗 [LinkedIn](https://linkedin.com/in/sergioricardo-me)  
+📧 [sergio.torres@feac.ufal.br](mailto:sergio.torres@feac.ufal.br)
+
+🔗 [LinkedIn](https://linkedin.com/in/sergioricardo-me) 
+
+:page_with_curl:[Lattes](http://lattes.cnpq.br/6028108290396877)
 
