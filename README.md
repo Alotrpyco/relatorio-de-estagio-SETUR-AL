@@ -33,7 +33,7 @@ relatorio-de-estagio-SETUR-AL/
 
 
 ---
-## 🙋‍♂️ Autor
+## :statue_of_liberty: Autor
 
 **Sérgio Ricardo Vieira Torres Silva**  
 📧 [sergio.torres@feac.ufal.br](mailto:sergio.torres@feac.ufal.br)
