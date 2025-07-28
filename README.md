@@ -9,7 +9,7 @@ Gostaria de expressar meus sinceros agradecimentos à Secretária de Estado do T
 
 ---
 
-##:open_file_folder: Estrutura do Projeto
+## :open_file_folder: Estrutura do Projeto
 ```
 relatorio-de-estagio-SETUR-AL/
 ├── Arquivos                              # Pasta que contém os arquivos tex e PDF.
@@ -31,7 +31,7 @@ relatorio-de-estagio-SETUR-AL/
 
 
 ---
-##:statue_of_liberty: Autor
+## :statue_of_liberty: Autor
 
 **Sérgio Ricardo Vieira Torres Silva**  
  :mailbox_closed: [sergio.torres@feac.ufal.br](mailto:sergio.torres@feac.ufal.br)  
