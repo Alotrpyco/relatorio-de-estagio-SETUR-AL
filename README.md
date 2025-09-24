@@ -42,7 +42,8 @@ relatorio-de-estagio-SETUR-AL/
 
 Vamos jogar um DUO?
 
-[![LoL](https://img.shields.io/badge/LoL-Alotrópico-1f8ecd?style=for-the-badge&logo=leagueoflegends&logoColor=yellow)](https://br.op.gg/summoner/userName=Alotrópico)
+[![LoL](https://img.shields.io/badge/LoL-Alotrópico-000000?style=for-the-badge&logo=leagueoflegends&logoColor=FFD700)](https://br.op.gg/summoner/userName=Alotrópico)
+
 
 
 
