@@ -22,9 +22,12 @@ relatorio-de-estagio-SETUR-AL/
 │   ├── decreto.pdf
 │   ├── manual de elaboração PPA 2024 - 2027.pdf
 │   ├── manual de monitoramento PPA.pdf
+│   ├── manual-loa-2026.pdf
 │   └── orientações técnicas monitoramento e avaliação PPA 2024-2027.pdf
 ├── LICENSE
 └── README.md
+
+
 
 ```
 
