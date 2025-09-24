@@ -1,4 +1,4 @@
-## Repositório e relatório em construção
+
 
 
 # :notebook: Relatório de Estágio — SETUR/AL (2025)
@@ -38,4 +38,9 @@ relatorio-de-estagio-SETUR-AL/
 ## :statue_of_liberty: Autor
 
 **Sérgio Ricardo Vieira Torres Silva**    
-[![Lattes](https://img.shields.io/badge/Lattes-000?style=for-the-badge&logo=read.cv&logoColor=white)](http://lattes.cnpq.br/6028108290396877)  [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=red)](mailto:sergio.torres@feac.ufal.br)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergioricardo-me)  
+[![Lattes](https://img.shields.io/badge/Lattes-000?style=for-the-badge&logo=read.cv&logoColor=white)](http://lattes.cnpq.br/6028108290396877)  
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=red)](mailto:sergio.torres@feac.ufal.br)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergioricardo-me)   
+[![LoL](https://img.shields.io/badge/LoL-SergioRicardo-1f8ecd?style=for-the-badge&logo=leagueoflegends&logoColor=yellow)](https://br.op.gg/summoner/userName=Alotrópico)
+
+
