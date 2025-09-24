@@ -12,17 +12,20 @@ Este repositório contém o relatório final de estágio não obrigatório reali
 ## :open_file_folder: Estrutura do Projeto
 ```
 relatorio-de-estagio-SETUR-AL/
-├── Arquivos                              # Pasta que contém os arquivos tex e PDF.
-│   ├── arquivo.pdf                       # Versão compilada em PDF.
-│   └── arquivo.tex                       # Scripts em tex.
-├── Bibliografia utilizada/
-|   ├── portaria interministerial.pdf     # discorre sobre a estrutura e a classificação das receitas e despesas.
-|   ├── decreto.pdf                       # sobre excução orçamentária, financeira, patrimonial e contábil do estado de Alagoas.
-|   ├── manual de elaboração PPA.pdf      # manual de elaboração PPA 2024 - 2027.
-|   ├── manual de monitoramento PPA.pdf   # manual de monitoramento do PPA.
-|   └── orientações técnicas              # orientações sobre o monitoramento e avaliação PPA 2024-2027.
-├──.gitignore                             # Arquivos ignorados pelo Git.
-└── README.md 
+├── Arquivos
+│   ├── arquivo.pdf
+│   ├── arquivo.tex
+│   └── calculadora_de_horas_de_estgio.py
+├── Bibliografia utilizada
+│   ├── DECRETO N° 98.054, DE 4 DE JULHO DE 2024.pdf
+│   ├── Portaria Interm 163_2001_Atualizada_2015_02set2015.pdf
+│   ├── decreto.pdf
+│   ├── manual de elaboração PPA 2024 - 2027.pdf
+│   ├── manual de monitoramento PPA.pdf
+│   └── orientações técnicas monitoramento e avaliação PPA 2024-2027.pdf
+├── LICENSE
+└── README.md
+
 ```
 
 ## :blue_book: Visualização
@@ -34,9 +37,5 @@ relatorio-de-estagio-SETUR-AL/
 ---
 ## :statue_of_liberty: Autor
 
-**Sérgio Ricardo Vieira Torres Silva**  
-:mailbox_closed: [sergio.torres@feac.ufal.br](mailto:sergio.torres@feac.ufal.br)
-
-🔗 [LinkedIn](https://linkedin.com/in/sergioricardo-me) 
-
-:page_with_curl:[Lattes](http://lattes.cnpq.br/6028108290396877)
+**Sérgio Ricardo Vieira Torres Silva**    
+[![Lattes](https://img.shields.io/badge/Lattes-000?style=for-the-badge&logo=read.cv&logoColor=white)](http://lattes.cnpq.br/6028108290396877)  [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=red)](mailto:sergio.torres@feac.ufal.br)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergioricardo-me)  
