@@ -12,11 +12,11 @@ Este repositório contém o relatório final de estágio não obrigatório reali
 ## :open_file_folder: Estrutura do Projeto
 ```
 relatorio-de-estagio-SETUR-AL/
-├── Arquivos
+├── Arquivos/
 │   ├── arquivo.pdf
 │   ├── arquivo.tex
 │   └── calculadora_de_horas_de_estgio.py
-├── Bibliografia utilizada
+├── Bibliografia utilizada/
 │   ├── DECRETO N° 98.054, DE 4 DE JULHO DE 2024.pdf
 │   ├── Portaria Interm 163_2001_Atualizada_2015_02set2015.pdf
 │   ├── decreto.pdf
