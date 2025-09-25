@@ -34,7 +34,7 @@ relatorio-de-estagio-SETUR-AL/
 
 ## :blue_book: Visualização
 
-:bookmark_tabs: [Clique aqui para acessar o relatório parcialmente (PDF)](Arquivos/arquivo.pdf)
+:bookmark_tabs: [Clique aqui para acessar o relatório](Arquivos/arquivo.pdf)
 
 
 
