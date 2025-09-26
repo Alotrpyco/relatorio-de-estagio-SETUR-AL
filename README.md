@@ -5,8 +5,7 @@
 
 Este repositório contém o relatório final de estágio não obrigatório realizado na **Secretaria de Estado do Turismo de Alagoas (SETUR/AL)**, no qual fui selecionado por meio do Programa Pontapé. O documento foi elaborado em **LaTeX** e apresenta as atividades desenvolvidas, aprendizados e resultados obtidos durante o período de estágio.
 
-Gostaria de agradecer à Secretária de Estado do Turismo [![Instagram - Bárbara Braga](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/barbarabragaa/) ; à Gerente Executiva de Orçamento, Finanças e Contabilidade [![Instagram - Sarah Medeiros](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sarah.medeiros29/); ao Superintendente Administrativo e Financeiro [![Instagram - Leonildo Oliveira](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonildo_oliveira00/) pela orientação, confiança e apoio prestados ao longo do estágio. 
-
+Gostaria de agradecer à Secretária de Estado do Turismo [![Instagram - Bárbara Braga](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/barbarabragaa/) ; à Gerente Executiva de Orçamento, Finanças e Contabilidade [![Instagram - Sarah Medeiros](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sarah.medeiros29/); ao Superintendente Administrativo e Financeiro [![Instagram - Leonildo Oliveira](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonildo_oliveira00/) pela orientação, confiança e apoio prestados ao longo do estágio.
 
 ---
 
